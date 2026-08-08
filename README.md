@@ -8,4 +8,5 @@ actions:
     link: /en/
     type: secondary
 footer: GPL-3.0 Licensed | Copyright © 2019-present DUpdateSystem
+update
 ---
